@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fetchrest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch color rest values and contrast-safe presentation helpers.",
+  "bin": {
+    "fetchrest": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fetchrest.git"
+  },
+  "homepage": "https://theworker02.github.io/fetchrest/",
+  "keywords": [
+    "fetch",
+    "rest",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
